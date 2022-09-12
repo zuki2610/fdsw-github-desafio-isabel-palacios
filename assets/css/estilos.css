@@ -3,15 +3,16 @@ body {
   color: #bdbdbd;
   background-color: #373a3c;
 }
+
 /* Hero Section */
 
 #Hero-Section {
   background-image: url("/assets/img/Verde\ Foto\ Lateral\ Comida\ Publicación\ de\ Facebook.gif");
   background-repeat: no-repeat;
-  background-size: 100% 122%; 
+  background-size: 100% 122%;
   background-position: center;
   ;
-  
+
 }
 
 /* Mis trabajos */
@@ -35,8 +36,25 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
 
+}
+
+/*-movil-*/
+@media (max-width: 426px) {
+  #titulo {
+    font-size: 25px;
+  }
+  #parrafo {
+    font-size: 14px;
+  }
+  #Hero-Section {
+    background-image: url("/assets/img/bg-mediaqueris.gif");
+    background-repeat: no-repeat;
+    background-size: 101% 100%;
+    background-position: center;
+    ;
+    }
 }
