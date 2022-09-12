@@ -7,9 +7,9 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("/assets/img/Verde\ Foto\ Lateral\ Comida\ Publicación\ de\ Facebook.gif");
+  background-image: url("/assets/img/bg-mediaqueris.png");
   background-repeat: no-repeat;
-  background-size: 100% 122%;
+  background-size: 100% 110%;
   background-position: center;
   ;
 
@@ -51,7 +51,7 @@ body {
     font-size: 14px;
   }
   #Hero-Section {
-    background-image: url("/assets/img/bg-mediaqueris.gif");
+    background-image: url("/assets/img/bg-mediaqueris.png");
     background-repeat: no-repeat;
     background-size: 101% 100%;
     background-position: center;
