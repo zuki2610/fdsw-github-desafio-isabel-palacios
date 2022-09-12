@@ -7,7 +7,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("/assets/img/bg-mediaqueris.png");
+  background-image: url("../img/bg-mediaqueris.png");
   background-repeat: no-repeat;
   background-size: 100% 110%;
   background-position: center;
